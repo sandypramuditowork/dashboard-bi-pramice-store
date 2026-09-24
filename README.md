@@ -39,13 +39,13 @@ Menyajikan perbandingan performa toko berdasarkan data penjualan.
 ## Dashboard Preview
 
 ### Kinerja Bisnis
-![Kinerja Bisnis](./Kinerja Bisnis.png)
+![Kinerja Bisnis](./Kinerja Bisnis.PNG)
 
 ### Analisis Produk
-![Analisis Produk](./Analisis Produk.png)
+![Analisis Produk](./Analisis Produk.PNG)
 
 ### Performa Toko
-![Performa Toko](./Performa-Toko.png)
+![Performa Toko](./Performa Toko.PNG)
 
 ## Project Information
 
