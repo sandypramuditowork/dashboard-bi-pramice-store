@@ -48,7 +48,7 @@ Menyajikan perbandingan performa toko berdasarkan data penjualan.
 
 ### Performa Toko
 
-![Performa Toko](./Performa%20Toko.PNG)
+![Performa Toko](./Peforma%20Toko.PNG)
 
 ## Project Information
 
